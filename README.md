@@ -1,5 +1,3 @@
-Soy Rodrigo López Núñez, un Data Scientist Junior y en el presente proyecto estaré poniendo a prueba mis conocimientos en etl, eda, machine learning.
-
 # Presentación.
 
 Se estará trabajando con tres [datasets](https://drive.google.com/drive/folders/1oQDaRujAzagUWsswGeHT_jcoYoTzc3dr?usp=drive_link) de [steam](https://store.steampowered.com/?l=spanish).
